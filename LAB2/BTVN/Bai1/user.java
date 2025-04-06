@@ -21,6 +21,6 @@ public abstract class user {
     public abstract double thanhTien();
 
     public void xuatHoaDon() {
-        System.out.println("%s  |  %s  |  %3f  |  %3f", maKH, tenKH, soLuongDien, thanhTien());
+        System.out.printf("%s  |  %s  |  %3f  |  %3f", maKH, tenKH, soLuongDien, thanhTien());
     }
 }

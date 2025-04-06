@@ -6,11 +6,6 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Calendar;
 
-import sinhHoat;
-import kinhDoanh;
-import sanXuat;
-import user;
-
 public class Bai1Vn {
     static Scanner sc = new Scanner(System.in);
     static ArrayList<user> dsKH = new ArrayList<>();
